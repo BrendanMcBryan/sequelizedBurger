@@ -1,0 +1,47 @@
+body {
+  background: url(../img/burger-bg.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+}
+
+section {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+}
+
+h2 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.card-title {
+  /* background-color: aquamarine; */
+}
+
+
+.gamebutton {
+  /* width: 25px;
+    height: 25px; */
+  /* background-color: blue; */
+  text-align: center;
+  padding: 9px;
+  padding-bottom: 25px;
+  font-size: 50px;
+  border-radius: 9px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
